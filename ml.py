@@ -7,7 +7,7 @@ def get_df(filename):
     INPUT:filename e.g. mauna_loa.csv
     OUTPUT: Pandas Dataframe
     '''
-    ...
+    
    
 
 def plot_df(df):
